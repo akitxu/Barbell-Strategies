@@ -78,10 +78,11 @@ Python
 ba.run(actualizar_excel=True);
 ```
 ## El árbol de decisión trimestral
-![Árbol de decisión](./img/arbol%20de%20decision.png)
+![Árbol de decisión](./img/arbol_decision.png)
+
 
 ```
-![imagen.png](attachment:d6484f6f-7dab-490a-a747-c0b349114e55.png)
+
 ```
 ## Los tres momentos clave del año.
 
